@@ -18,6 +18,11 @@
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=MochamadLukyAdithia&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
+
+<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
+
+###
+
 ---
 [![](https://visitcount.itsvg.in/api?id=MochamadLukyAdithia&icon=4&color=0)](https://visitcount.itsvg.in)
 
